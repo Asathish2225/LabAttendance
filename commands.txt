@@ -1,0 +1,7 @@
+client exe code
+pyinstaller --name Easy_Attendance_Client --onefile --windowed --icon=512.ico main_client.py
+
+server exe code
+pyinstaller --name Easy_Attendanc_Server --onefile --icon=512.ico main_server.py
+
+Inno setup application for creating and adding all the files into a setup.

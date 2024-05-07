@@ -1,0 +1,198 @@
+{
+  "lab_rooms": ["Lab 401", "Lab 402", "Lab 403", "Lab 404", "Lab 503", "Lab 504", "Lab 708", "Lab 908", "Poly-1", "Poly-2"],
+  "regulations": ["2020", "2023"],
+  "sections": ["A", "B", "C", "D", "E", "F", "G"],
+  "semesters" :{
+            "Others": ["Not Applicable"],
+            "MCA I": ["1", "2"],
+            "MCA II": ["3", "4"],
+            "M.Sc ADS I": ["1", "2"],
+            "M.Sc ADS II": ["3", "4"],
+            "BCA (CA) I": ["1", "2"],
+            "BCA (CA) II": ["3", "4"],
+            "BCA (CA) III": ["5", "6"],
+            "BCA (CA) IV": ["7", "8"],
+            "BCA (DS) I": ["1", "2"],
+            "BCA (DS) II": ["3", "4"],
+            "BCA (DS) III": ["5", "6"],
+            "BCA (DS) IV": ["7", "8"]
+        },
+
+  "subjects" : {
+            "2020": {
+                "Others": {
+                    "Not Applicable": ["Not Applicable"]
+                },
+                "MCA I": {
+                    "1": ["Programming Using Java", "Operating System", "Database Technology", "Advanced Web Application Development", "Cyber Security", "Software Engineering", "IT Infrastructure Management"],
+                    "2": ["Python Programming", "Computer Networks", "Optimization Techniques", "Android Applications Development", "Programming using C#", "Software Testing", "Data Analysis Using R"]
+                },
+                "MCA II": {
+                    "3": ["Object Oriented Analysis and Design", "Artificial Intelligence and Machine Learning", "Cloud Computing", "Internet of Things (IoT)", "Mini Project Work"],
+                    "4": ["Project Work "]
+                },
+                "M.Sc ADS I": {
+                    "1": ["Data Analysis Fundamentals", "Machine Learning for Data Science"],
+                    "2": ["Data Visualization and Concepts", "Building Machine Learning Pipelines", "Artificial Intelligence"]
+                },
+                "M.Sc ADS II": {
+                    "3": ["Deep Learning for Data Science", "Cloud Computing", "Exploratory Data Analysis", "Social Media and Text Analytics", "Mini Project Work"],
+                    "2": ["Project Work "]
+                },
+                "BCA (CA) I": {
+                    "1": ["Programming for Problem Solving", "Digital  Logic Fundamentals"],
+                    "2": ["Object Oriented Programming", "Data Structures and Algorithms", "Go Programming"]
+                },
+                "BCA (CA) II": {
+                    "3": ["Programming in Java", "Operating Systems", "Web development using Node JS and Mongo", "Web development using React JS and Mongo", "Web development using Angular JS and Mongo"],
+                    "4": ["Windows Programming using VB.NET", "Database Systems", "Multimedia and Animation", "Artificial Intelligence"]
+
+                },
+                "BCA (CA) III": {
+                    "5": ["Web Programming", "Computer Networks ", "Software Engineering and Testing", "Lua Programming", "Statistical Package for Social Sciences"],
+                    "6": ["Python Programming", "Multimedia Design Principles and Applications", "Object Oriented Analysis and Design", "Internet of  Things", "Project Work "]
+
+                },
+                "BCA (DS) I": {
+                    "1": ["Introduction to Advanced Computing"],
+                    "2": ["Introduction to Data Science", "Advanced Computing With Distributed Data Processing"]
+
+                },
+                "BCA (DS) II": {
+                    "3": ["Introduction to Deep Learning", "Advanced Computing With Python and GCP", "Introduction to Natural Language Processing", "Data Engineering for Enterprise"],
+                    "4": ["Deep Learning for Enterprise", "Introduction to Computer Vision", "Working with Big Data", "Data Science for Enterprise"]
+
+                },
+                "BCA (DS) III": {
+                    "5": ["Intelligent Automation", "Real-World Computer Vision Applications", "Advanced Analytics and Data Visualization for Enterprise", "Machine Learning for Enterprise"],
+                    "6": ["Intelligent Automation for Enterprise", "Project Work"]
+
+                }
+            },
+            "2023": {
+                "Others": {
+                    "Not Applicable": ["Not Applicable"]
+                },
+                "MCA I": {
+                    "1": ["Programming Using Java", "Operating System", "Database Technology",
+                          "Advanced Web Application Development", "Cyber Security", "Software Engineering",
+                          "IT Infrastructure Management"],
+                    "2": ["Python Programming", "Computer Networks", "Optimization Techniques",
+                          "Android Applications Development", "Programming using C#", "Software Testing",
+                          "Data Analysis Using R"]
+                },
+                "MCA II": {
+                    "3": ["Object Oriented Analysis and Design", "Artificial Intelligence and Machine Learning",
+                          "Cloud Computing", "Internet of Things (IoT)", "Mini Project Work"],
+                    "4": ["Project Work "]
+                },
+                "M.Sc ADS I": {
+                    "1": ["Data Analysis Fundamentals", "Machine Learning for Data Science"],
+                    "2": ["Data Visualization and Concepts", "Building Machine Learning Pipelines",
+                          "Artificial Intelligence"]
+                },
+                "M.Sc ADS II": {
+                    "3": ["Deep Learning for Data Science", "Cloud Computing", "Exploratory Data Analysis",
+                          "Social Media and Text Analytics", "Mini Project Work"],
+                    "2": ["Project Work "]
+                },
+                "BCA (CA) I": {
+                    "1": ["Programming for Problem Solving", "Digital  Logic Fundamentals"],
+                    "2": ["Object Oriented Programming", "Fundamentals of Data Structures and Algorithms"]
+                },
+                "BCA (CA) II": {
+                    "3": ["Programming in Java", "Database Management System", "Fundamentals of Data Science",
+                          "Web Programming"],
+                    "4": ["Open Source Technologies", "Operating System", "Serverless Database Techniques",
+                          "Go Programming"]
+
+                },
+                "BCA (CA) III": {
+                    "5": ["Python Programming", "Computer Networks ", "Object Oriented Analysis and Design",
+                          "Windows Programming using VB.NET", "Data Analysis using R", "Web development using Angular JS and MongoDB", "Basics of Android", "Lua Programming"],
+                    "6": ["Software Engineering and Testing", "Wireless Communication and Mobile Computing",
+                          "Research Methodology", "Introduction to Animation", "Introduction to Computer Vision", "Programming Using C#", "Introduction to Machine Learning", "Mini Project"]
+
+                },
+                "BCA (CA) IV": {
+                    "7": ["Cloud Computing", "Web Development using Node JS and MongoDB", "Cyber Security",
+                          "Data Visualization and Exploring Models", "Basics of  IOS",
+                          "Project Phase-I"],
+                    "8": ["Big Data Analytics", "Blockchain Technology",
+                          "Internet of Things", "E-Commerce", "Artificial Intelligence",
+                          "Data Wrangling", "Project Phase-II"]
+
+                },
+                "BCA (DS) I": {
+                    "1": ["Programming Using Java", "Programming Using Java", "Role of Mathematics in AI"],
+                    "2": ["Introduction to Computing With Distributed Data Processing", "Fundamentals of Data Structures and Algorithms", "Role of Statistics in AI"]
+
+                },
+                "BCA (DS) II": {
+                    "3": ["Role of Statistics in AI", "Data Base Management System",
+                          "Machine Learning", "Data Wrangling", "Web Programming"],
+                    "4": ["Deep Learning", "Advanced Computing With Python and GCP", "Fundamentals of Natural Language Processing",
+                          "Office Automation with Advanced Excel", "Go Programming"]
+
+                },
+                "BCA (DS) III": {
+                    "5": ["Deep Learning with Keras and Tensorflow", "Big Data Analytics with Applications",
+                          "Intelligent Automation", "Data Warehousing and Data Mining", "Introduction to Cloud Computing", "No-Code Applications", "Lua Programming"],
+                    "6": ["Introduction to Computer Vision", "Advanced Analytics and Data Visualization for Enterprise", "Research Methodology", "Machine Learning for Enterprise", "Blockchain Technology", "Introduction to Animation", "Mini Project"]
+
+                },
+                "BCA (DS) IV": {
+                    "7": ["Data Science for Business Analytics", "Digital Transformation",
+                          "Real World Computer Vision Applications", "Digital Marketing",
+                          "Introduction to Internet of Things", "Project Phase-I"],
+                    "8": ["AI and Intelligent Automation for Enterprise", "Technology Leadership and Innovation Management",
+                          "Social Media and Text Analytics", "Statistical Analysis and Business Applications", "Blockchain Technology",
+                          "Applications of Edge IoT and ML", "Basics of Cyber Security", "Project Phase-II"]
+
+                }
+
+            }
+        },
+  "sender_email" : "aa2597@srmist.edu.in",
+  "sender_pw" : "Satz2509*",
+  "staff_incharge":
+    ["JAYASHREE R" , "KANMANI K" , "RAMLA M" , "M R SUDHA" , "SIVAKUMAR S" ,
+    "Pandiyan M" , "Thilagavathy R" , "HELEN D" , "ARUNARANI S" , "CHANTHINI P" ,
+    "LAKSHMI S" , "SELVAM L" , "KIRUTHIGA R" , "MOTHILAL NEHRU G" , "SRIVIDHYA B" ,
+      "JOHN BRITTO M" , "ANITA SMILES J" , "Brindha S" , "NAGARAJAN B" , "SATHYA K" ,
+      "ELANGOVAN V R" , "KAMALAKUMARI J" , "SHANTHI R" , "DEVAGNANAM J" , "ANWAR SHAHEEN" ,
+      "THILAKA A" , "ANANTHI CLARAL MARY T" , "S BELINA V J SARA" , "NISHA V" , "ANIJI M"],
+
+  "staff_incharge_emails": {
+    "JAYASHREE R": "jayashrr@srmist.edu.in",
+    "KANMANI K": "kanmanik@srmist.edu.in",
+    "RAMLA M": "ramlam@srmist.edu.in",
+    "M R SUDHA": "sudham2@srmist.edu.in",
+    "SIVAKUMAR S": "sivakums6@srmist.edu.in",
+    "Pandiyan M": "pandiyam@srmist.edu.in",
+    "Thilagavathy R": "thilagar1@srmist.edu.in",
+    "HELEN D": "helend@srmist.edu.in",
+    "ARUNARANI S": "arunaras@srmist.edu.in",
+    "CHANTHINI P": "chanthip@srmist.edu.in",
+    "LAKSHMI S": "lakshmis10@srmist.edu.in",
+    "SELVAM L": "selvaml@srmist.edu.in",
+    "KIRUTHIGA R": "kiruthir4@srmist.edu.in",
+    "MOTHILAL NEHRU G": "mothilag@srmist.edu.in",
+    "SRIVIDHYA B": "srividhb@srmist.edu.in",
+    "JOHN BRITTO M": "johnbrim@srmist.edu.in",
+    "ANITA SMILES J": "anitasmj@srmist.edu.in",
+    "Brindha S": "brindhas1@srmist.edu.in",
+    "NAGARAJAN B": "nagarajb1@srmist.edu.in",
+    "SATHYA K": "sathyak2@srmist.edu.in",
+    "ELANGOVAN V R": "elangovv1@srmist.edu.in",
+    "KAMALAKUMARI J": "kamalakj@srmist.edu.in",
+    "SHANTHI R": "shanthir3@srmist.edu.in",
+    "DEVAGNANAM J": "devagnaj@srmist.edu.in",
+    "ANWAR SHAHEEN": "anwars@srmist.edu.in",
+    "THILAKA A": "thilakaa@srmist.edu.in",
+    "ANANTHI CLARAL MARY T": "ananthit1@srmist.edu.in",
+    "S BELINA V J SARA": "sbelinav@srmist.edu.in",
+    "NISHA V": "nishav@srmist.edu.in",
+    "ANIJI M": "anijim@srmist.edu.in"
+  }
+}
